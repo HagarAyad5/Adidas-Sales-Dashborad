@@ -15,7 +15,7 @@ ADIDAS SALES ANALYSIS is a data analysis project designed to gain insights into 
 
 - *Excel*: For initial data exploration and cleaning.
 - *Power BI*: For data visualization and dashboard creation.
-- *Data Analysis*: To extract meaningful insights and create KPIs for performance tracking.
+- *Data Analysis*: To extract meaningful insights and create KPIs for improve performance.
 
 ## Dataset :
 
