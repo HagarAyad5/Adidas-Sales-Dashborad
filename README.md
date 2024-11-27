@@ -3,14 +3,10 @@
 ADIDAS SALES ANALYSIS is a data analysis project designed to gain insights into the sales performance of Adidas products. The project analyzes sales data to identify the products with the highest sales, the days with the most sales activity, and the regions and channels where sales are most concentrated. Additionally, it helps to identify the year with the highest sales.
 
 # Features:
-Identify the best-selling Adidas products.
-Determine which days see the highest sales.
-Analyze the geographical areas and sales channels contributing the most to Adidas' overall sales.
-Pinpoint the year with the highest sales performance.
-## Supermarket-Sales-Analysis-Dashboard
-
-This repository contains a Power BI-based dashboard that analyzes supermarket sales data to provide valuable insights into sales performance, customer behavior, and product trends. The dashboard is designed to help businesses make data-driven decisions by visualizing key metrics, identifying trends, and optimizing strategies.
-
+- *Identify the best-selling Adidas products.
+- *Determine which days see the highest sales.
+- *Analyze the geographical areas and sales channels contributing the most to Adidas' overall sales.
+- *Pinpoint the year with the highest sales performance.
 
 
 ![Supermarket Sales Dashboard](https://github.com/lobnamohamed22/Supermarket-Sales-Analysis-Dashboard/raw/main/WhatsApp%20Image%202024-11-26%20at%209.57.38%20PM.jpeg)
